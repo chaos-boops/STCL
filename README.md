@@ -34,5 +34,4 @@ If you find our work useful in your research, please consider citing:
 If you encounter any issues while using this repository, please feel free to leave messages in issues or contact us at:
 
 - zenozt@bupt.edu.cn
-- chaospler@163.com
 We will respond as soon as possible.
