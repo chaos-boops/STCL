@@ -77,22 +77,10 @@ The evaluation results will be saved in:
 - medium/ : Medium difficulty samples
 - hard/ : Hard samples
 ![Training subsets with different diffculties obtained by the teacher model diffculty evaluation method.](image/fig2.png)
-## Sample Difficulty Classification
-The evaluation process classifies samples into three categories:
-
-1. Easy samples : Images that maintain high quality (SSIM ≥ ssim_high, MS-SSIM ≥msssim_high , psnr_threshold ≥ 25) across all teacher models
-2. Hard samples : Images that have poor quality (SSIM ≤ ssim_low or MS-SSIM ≤ msssim_low) with at least one teacher model
-3. Medium samples : Images that fall between easy and hard categories
 
 
 
 ## Results
-The STCL training strategy demonstrates significant improvements in:
-
-- Faster convergence during training
-- Higher quality steganographic images (PSNR, SSIM)
-- Better message extraction accuracy
-- Lower detectability against steganalysis
 Detailed experimental results are presented in the paper.
 
 ![Comparison of cover and stego images under 1-3 bpp capacity steganography.](image/fig4.jpg)
