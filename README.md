@@ -89,7 +89,7 @@ Detailed experimental results are presented in the paper.
 
 
 ## Citation
-If you find our work useful in your research, please consider citing:
+If you find our work useful in your research, please consider citing:	arXiv:2504.17609
 
 
 ## Contact
