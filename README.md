@@ -89,9 +89,15 @@ Detailed experimental results are presented in the paper.
 
 
 ## Citation
-If you find our work useful in your research, please consider citing:	arXiv:2504.17609
-
-
+If you find our work useful in your research, please consider citing:
+```
+@article{liu2025stcl,
+  title={STCL: Curriculum learning Strategies for deep learning image steganography models},
+  author={Liu, Fengchun and Zhang, Tong and Zhang, Chunying},
+  journal={arXiv preprint arXiv:2504.17609},
+  year={2025}
+}
+```
 ## Contact
 If you encounter any issues while using this repository, please feel free to leave messages in issues or contact us at:
 
